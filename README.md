@@ -1,2 +1,2 @@
 # Coursera_Capstone
-sharing jupiter notebook
+sharing jupyter notebook
